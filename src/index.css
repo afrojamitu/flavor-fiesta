@@ -1,0 +1,7 @@
+*{
+    font-family: Georgia;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
